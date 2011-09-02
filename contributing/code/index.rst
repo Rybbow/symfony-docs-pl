@@ -1,4 +1,4 @@
-Wkład w rozwój kodu
+Rozwój kodu
 =================
 
 .. toctree::

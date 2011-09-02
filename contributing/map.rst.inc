@@ -1,21 +1,21 @@
-* **Code**:
+* **Kod**:
 
-  * :doc:`Bugs </contributing/code/bugs>` | 
-  * :doc:`Patches </contributing/code/patches>` | 
-  * :doc:`Security </contributing/code/security>` | 
-  * :doc:`Tests </contributing/code/tests>` | 
-  * :doc:`Coding Standards</contributing/code/standards>` | 
-  * :doc:`Code Conventions</contributing/code/conventions>` | 
-  * :doc:`License </contributing/code/license>`
+  * :doc:`Błędy </contributing/code/bugs>` | 
+  * :doc:`Patche </contributing/code/patches>` | 
+  * :doc:`Bezpieczeństwo </contributing/code/security>` | 
+  * :doc:`Testy </contributing/code/tests>` | 
+  * :doc:`Standardy kodowania</contributing/code/standards>` | 
+  * :doc:`Konwencja</contributing/code/conventions>` | 
+  * :doc:`Licencja </contributing/code/license>`
 
-* **Documentation**:
+* **Dokumentacja**:
 
-  * :doc:`Overview </contributing/documentation/overview>` | 
+  * :doc:`Przegląd </contributing/documentation/overview>` | 
   * :doc:`Format </contributing/documentation/format>` | 
-  * :doc:`Translations </contributing/documentation/translations>` | 
-  * :doc:`License </contributing/documentation/license>`
+  * :doc:`Tłumaczenia </contributing/documentation/translations>` | 
+  * :doc:`Licencja </contributing/documentation/license>`
 
-* **Community**:
+* **Społeczność**:
 
-  * :doc:`IRC Meetings </contributing/community/irc>` |
-  * :doc:`Other Resources </contributing/community/other>`
+  * :doc:`Spotkania IRC </contributing/community/irc>` |
+  * :doc:`Inne zasoby </contributing/community/other>`
