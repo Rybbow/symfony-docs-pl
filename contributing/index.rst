@@ -1,4 +1,4 @@
-Wkład
+Wkład w rozwój
 ============
 
 .. toctree::

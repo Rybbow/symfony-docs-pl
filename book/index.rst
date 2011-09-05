@@ -1,4 +1,4 @@
-Książka
+Podręcznik
 ====
 
 .. toctree::
