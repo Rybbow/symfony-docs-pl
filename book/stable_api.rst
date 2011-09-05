@@ -12,7 +12,7 @@ w których możesz mieć pewność że:
 Sama implementacja może się zmienić. Jedyną podstawą do zmiany stabilnego API jest bład w 
 kwestii bezpieczeństwa.
 
-Stabilne API bazuje na białej liście, otagowej tagiem `@api`. Dlatego też
+Stabilne API bazuje na białej liście, otagowanej tagiem `@api`. Dlatego też
 wszystko nie oznaczone tagiem nie jest częścią stabilnego API.
 
 .. tip::
