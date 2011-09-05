@@ -5,7 +5,7 @@ Stabilne API Symfony2 jest podzbiorem wszystkich publicznych metod (komponentów
 w których możesz mieć pewność że:
 
 * Przestrzenie nazw oraz nazwy klas się nie zmienią;
-* Nazwy metod się nie zmienią;
+* Nazwa metody się nie zmieni;
 * Deklaracja metody (argumenty oraz zwracana wartość) się nie zmieni;
 * Działanie metody się nie zmieni.
 
